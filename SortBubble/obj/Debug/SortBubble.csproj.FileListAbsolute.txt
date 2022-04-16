@@ -1,0 +1,7 @@
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\SortBubble\bin\Debug\SortBubble.exe.config
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\SortBubble\bin\Debug\SortBubble.exe
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\SortBubble\bin\Debug\SortBubble.pdb
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\SortBubble\obj\Debug\SortBubble.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\SortBubble\obj\Debug\SortBubble.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\SortBubble\obj\Debug\SortBubble.exe
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\SortBubble\obj\Debug\SortBubble.pdb
